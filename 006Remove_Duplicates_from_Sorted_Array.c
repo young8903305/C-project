@@ -1,6 +1,6 @@
 /*
- *  i : the output index
- *  j : where is the index on array now
+ *  length : the output index
+ *  index : where is the index on array now
  */
 int removeDuplicates(int* nums, int numsSize){
     if(numsSize <= 1){
