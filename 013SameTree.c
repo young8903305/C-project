@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-    // * Definition for a binary tree node.
-    struct TreeNode
-{
+// Definition for a binary tree node.
+struct TreeNode{
     int val;
     struct TreeNode *left;
     struct TreeNode *right;
